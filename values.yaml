@@ -1,0 +1,16 @@
+# Default values for sergeichart.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+deployment:
+  name: sergei
+  replicas: 1
+
+label: sergei
+
+container:
+  name: sergei
+  image: ranchertest/mytestcontainer
+
+service:
+  name: sergei
