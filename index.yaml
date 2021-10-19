@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sergeichart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-10-19T18:42:12.387776-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 3a1582cfe426d47754168322554e043fef70ff09e2c99a7c1e336f8381275f6a
+    name: sergeichart
+    type: application
+    urls:
+    - sergeichart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-19T18:42:12.381169-05:00"
