@@ -3,14 +3,14 @@
 # Declare variables to be passed into your templates.
 
 deployment:
-  name: sergeichart
+  name: sergeichart1
   replicas: 1
 
-label: sergeichart
+label: sergeichart1
 
 container:
-  name: sergeichart
+  name: sergeichart1
   image: ranchertest/mytestcontainer
 
 service:
-  name: sergeichart
+  name: sergeichart1
