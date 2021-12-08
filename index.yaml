@@ -3,12 +3,12 @@ entries:
   sergeichart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-12-08T10:03:30.808076-06:00"
+    created: "2021-12-08T10:06:41.358319-06:00"
     description: Sergei Test Helm Chart
-    digest: d7d23e47e4d3d85c7266d358d59fb2872eb87d3a62522391da7d926a35ce57b1
+    digest: 3bd506daa02c0ae2658e5b936e286eb4e54b2567d84b648b695c1fb29e5087b5
     name: sergeichart
     type: application
     urls:
     - sergeichart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-08T10:03:30.794892-06:00"
+generated: "2021-12-08T10:06:41.351925-06:00"
