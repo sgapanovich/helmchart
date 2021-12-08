@@ -2,23 +2,13 @@ apiVersion: v1
 entries:
   sergeichart:
   - apiVersion: v2
-    appVersion: 0.1.1
-    created: "2021-12-08T10:12:17.56357-06:00"
-    description: Sergei Test Helm Chart
-    digest: 7e0eb4665e056965838a12b6a720403e8a9a8a77fc9ba80a3b53a65a8c37ec8d
-    name: sergeichart
-    type: application
-    urls:
-    - sergeichart-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-12-08T10:12:17.535723-06:00"
+    created: "2021-12-08T13:07:35.519846-06:00"
     description: Sergei Test Helm Chart
-    digest: 7b82ca4b494874225010971f56000a7da344e4b03aa1fc7f34358e0316900881
+    digest: 3abb80b050181f1f0037806030e12db4c0e3502aa050e824636f7cd4623f381a
     name: sergeichart
     type: application
     urls:
     - sergeichart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-08T10:12:17.534447-06:00"
+generated: "2021-12-08T13:07:35.486124-06:00"
